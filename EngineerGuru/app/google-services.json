@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661857482447",
+    "firebase_url": "https://engineerguru-accea.firebaseio.com",
+    "project_id": "engineerguru-accea",
+    "storage_bucket": "engineerguru-accea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661857482447:android:2365cde82cf7ce7e",
+        "android_client_info": {
+          "package_name": "com.harshadbirajdar.engineerguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661857482447-u563o5nb6qsgrppj7pleekp7r2v3e6nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshadbirajdar.engineerguru",
+            "certificate_hash": "cff90f963c0230cc6bd73cd9ba9bdadd465dde8c"
+          }
+        },
+        {
+          "client_id": "661857482447-q0ed33at1chgkdnfg66ianrm3ntihkb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmVwDNw9BLLvhL1XEyf4wGdGFuRgdbs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661857482447-q0ed33at1chgkdnfg66ianrm3ntihkb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
